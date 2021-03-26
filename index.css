@@ -67,11 +67,14 @@ footer a #footer-icon {font-size: 94px;
 
 
 @media (max-width:729px) {
-      main h1 {font-size: 36px;
+      main h1 {font-size: 38px;
+               padding: 0 10px;
+               line-height: 46px;
       }
       main p {font-size: 12px;
               line-height: 18px;
               margin-top: -15px;
+              padding: 0 10px;
       }
       .button-section .buttons {width: 90px;
                                 height: 35px;
